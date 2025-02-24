@@ -60,7 +60,7 @@
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
           <h2 class="title is-3">Abstract</h2>
-          <div class="content has-text-justified">
+          <div class="content" style="text-align: justify;">
             <p>
               Autonomous Vehicles (AVs) struggle to deduce material characteristics of obstacles, limiting their decision-making ability. This study introduces a <strong>Knowledge Graph (KG) framework</strong> to enhance AVs’ comprehension of physical material properties. By integrating semantic reasoning, AVs can infer characteristics like malleability, density, and elasticity beyond sensor data. Using the CARLA simulator, we evaluated AV performance with and without KG integration. The KG-based approach improved obstacle classification, leading to better lane-change decisions and emergency braking. Compared to a control system, the KG-enabled AV demonstrated <strong>13.3% more emergency stops</strong> and a <strong>6.6% higher lane-changing success rate</strong>, proving the potential of knowledge-based reasoning in AV decision-making and safety.
             </p>
