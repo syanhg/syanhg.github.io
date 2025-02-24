@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="description" content="Improving Sensor-based Autonomous Driving with Knowledge Graphs for Assessing Physical Properties of Road Obstacles">
-  <meta property="og:title" content="Improving Sensor-based Autonomous Driving with Knowledge Graphs"/>
+  <meta property="og:title" content="Improving Sensor-based Autonomous Driving with Knowledge Graphs for Assessing Physical Properties of Road Obstacles"/>
   <meta property="og:description" content="Enhancing AV obstacle comprehension using Knowledge Graphs (KG) to infer material properties beyond sensor data."/>
   <meta property="og:url" content="URL OF THE WEBSITE"/>
   <meta property="og:image" content="static/image/your_banner_image.png" />
